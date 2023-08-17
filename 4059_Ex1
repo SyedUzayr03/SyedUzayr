@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <title> Sample</title>
+    </head>
+    <body>
+        <h1>HELLO</h1>
+        <p>kjfdjgdogjojeotjetoj</p>
+        <img src="mercedes.webp" usemap="#cars" alt="Picture of car"/>
+        <map name=cars>
+            <area shape = "circle" coords="320,400,82" alt="logo" href="https://www.google.com/"/>
+        </map>
+    </body>        
+</html>
+
+
